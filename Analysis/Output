@@ -1,1 +1,14 @@
+PS C:\Users\amede\Downloads> & C:/Users/amede/AppData/Local/Microsoft/WindowsApps/python3.12.exe "c:/Users/amede/Downloads/Lab 6 code.py"
+Initial linked list:
+10 -> 20 -> 30 -> None
 
+Linked list after updating node2's data:
+10 -> 25 -> 30 -> None
+
+Linked list after adding node4:
+10 -> 25 -> 30 -> 40 -> None
+
+Linked list with node count:
+10 -> 25 -> 30 -> 40 -> None
+Total nodes count: 4
+PS C:\Users\amede\Downloads> 
